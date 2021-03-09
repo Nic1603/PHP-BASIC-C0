@@ -4,7 +4,7 @@
 
 <?php
 $naam = "Nicolas";
-echo $naam
+echo $naam 
 ?>
 
 </body>
