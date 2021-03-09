@@ -7,7 +7,7 @@ $leeftijd = 16;
 echo $leeftijd;
 
 $melkprijs = 0.98;
-echo $melkprijs;
+echo $melkprijs; 
 ?>
 
 </body>
